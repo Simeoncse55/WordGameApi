@@ -1,0 +1,206 @@
+[
+    {
+      "id": 1,
+      "level": 1,
+      "gameId": 1,
+      "rowCount": 3,
+      "columnCount": 3,
+      "hints": "P,R,O",
+      "answers": [
+        { "answerId": 1, "value": "PRO", "position": "0,1,2"},
+        { "answerId": 2, "value": "POR", "position": "0,3,6"}
+      ],
+      "boxes": [
+        {
+          
+          "boxId": 1,
+          "value": "P",
+          "position": 0
+        },
+        {
+          
+          "boxId": 2,
+          "value": "R",
+          "position": 1
+        },
+        {
+          
+          "boxId": 3,
+          "value": "O",
+          "position": 2
+        },
+        {
+          
+          "boxId": 4,
+          "value": "O",
+          "position": 3
+        },
+        {
+          
+          "boxId": 7,
+          "value": "R",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "gameId": 2,
+      "rowCount": 4,
+      "columnCount": 3,
+      "hints": "Y,A,R,D",
+      "answers": [
+        { "answerId": 3, "value": "YARD", "position": "0,1,2,3"},
+        { "answerId": 4, "value": "DAY", "position": "3,7,11"}
+      ],
+      "boxes": [
+        {
+          "boxId": 10,
+          "value": "Y",
+          "position": 0
+        },
+        {
+          "boxId": 11,
+          "value": "A",
+          "position": 1
+        },
+        {
+          "boxId": 12,
+          "value": "R",
+          "position": 2
+        },
+        {
+          "boxId": 13,
+          "value": "D",
+          "position": 3
+        },
+        {
+          "boxId": 17,
+          "value": "A",
+          "position": 7
+        },
+        {
+          "boxId": 21,
+          "value": "Y",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "gameId": 3,
+      "rowCount": 5,
+      "columnCount": 4,
+      "hints": "Y,E,S,A",
+      "answers": [
+        { "answerId": 5, "value": "YES", "position": "1,2,3"},
+        { "answerId": 6, "value": "EASY", "position": "2,7,12,17"},
+        {"answerId": 7, "value": "SEA", "position": "12,13,14"},
+        { "answerId": 8, "value": "SAY", "position": "15,16,17"}
+      ],
+      "boxes": [
+        {
+          "boxId": 22,
+          "value": "Y",
+          "position": 1
+        },
+        {
+          "boxId": 23,
+          "value": "E",
+          "position": 2
+        },
+        {
+          "boxId": 24,
+          "value": "S",
+          "position": 3
+        },
+        {
+          "boxId": 28,
+          "value": "A",
+          "position": 7
+        },
+        {
+          "boxId": 33,
+          "value": "S",
+          "position": 12
+        },
+        {
+          "boxId": 34,
+          "value": "E",
+          "position": 13
+        },
+        {
+          "boxId": 35,
+          "value": "A",
+          "position": 14
+        },
+        {
+          "boxId": 36,
+          "value": "S",
+          "position": 15
+        },
+        {
+          "boxId": 37,
+          "value": "A",
+          "position": 16
+        },
+        {
+          "boxId": 38,
+          "value": "Y",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": 4,
+      "gameId" : 4,
+      "rowCount": 4,
+      "columnCount": 3,
+      "hints": "A,I,P,N",
+      "answers": [
+        { "answerId": 9, "value": "PAIN", "position": "4,5,6,7"},
+        { "answerId": 10, "value": "PIN", "position": "2,6,10"}
+      ],
+      "boxes": [
+        {
+          
+          "boxId": 48,
+          "value": "P",
+          "position": 2
+        },
+        {
+          
+          "boxId": 50,
+          "value": "P",
+          "position": 4
+        },
+        {
+          
+          "boxId": 51,
+          "value": "A",
+          "position": 5
+        },
+        {
+          
+          "boxId": 52,
+          "value": "I",
+          "position": 6
+        },
+        {
+          
+          "boxId": 53,
+          "value": "N",
+          "position": 7
+        },
+        {
+          
+          "boxId": 56,
+          "value": "N",
+          "position": 10
+        }
+      ]
+    }
+  ]
